@@ -1,10 +1,10 @@
 
 
-# Number System Toolkit
+#  Number System Toolkit
 
 ## Overview
 
-**Number System Toolkit** is a menu-driven console application built in **C** that combines a **Number Base Converter** and **Multi-Base Calculator**.
+**bitshift** is a menu-driven console application built in **C** that combines a **Number Base Converter** and **Multi-Base Calculator**.
 
 It supports:
 
